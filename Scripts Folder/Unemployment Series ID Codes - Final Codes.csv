@@ -1,0 +1,41 @@
+Code,Sexes,Races,Age,Education,Marital Status,Labor Force Status
+LNU03027659,B,All,25+,Less than a High School diploma,All,Unemployed
+LNU03027660,B,All,25+,High School graduates,All,Unemployed
+LNU03027689,B,All,25+,Some college or associate degree,All,Unemployed
+LNU03027662,B,All,25+,Bachelor's degree and higher,All,Unemployed
+LNU03027675,M,All,25+,Less than a High School diploma,All,Unemployed
+LNU03027676,M,All,25+,High School graduates,All,Unemployed
+LNU03027693,M,All,25+,Some college or associate degree,All,Unemployed
+LNU03027677,M,All,25+,"Some college, no degree",All,Unemployed
+LNU03027687,M,All,25+,Associate degree,All,Unemployed
+LNU03027678,M,All,25+,Bachelor's degree and higher,All,Unemployed
+LNU03092226,M,All,25+,Bachelor's degree only,All,Unemployed
+LNU03091114,M,All,25+,Advanced degree,All,Unemployed
+LNU04027659,B,All,25+,Less than a High School diploma,All,Unemployment Rate
+LNU04027660,B,All,25+,High School graduates,All,Unemployment Rate
+LNU04027689,B,All,25+,Some college or associate degree,All,Unemployment Rate
+LNU04027662,B,All,25+,Bachelor's degree and higher,All,Unemployment Rate
+LNU04027675,M,All,25+,Less than a High School diploma,All,Unemployment Rate
+LNU04027676,M,All,25+,High School graduates,All,Unemployment Rate
+LNU04027693,M,All,25+,Some college or associate degree,All,Unemployment Rate
+LNU04027677,M,All,25+,"Some college, no degree",All,Unemployment Rate
+LNU04027687,M,All,25+,Associate degree,All,Unemployment Rate
+LNU04027678,M,All,25+,Bachelor's degree and higher,All,Unemployment Rate
+LNU04092226,M,All,25+,Bachelor's degree only,All,Unemployment Rate
+LNU04091114,M,All,25+,Advanced degree,All,Unemployment Rate
+LNU03027679,W,All,25+,Less than a High School diploma,All,Unemployed
+LNU04027679,W,All,25+,Less than a High School diploma,All,Unemployment Rate
+LNU03027680,W,All,25+,High School graduates,All,Unemployed
+LNU04027680,W,All,25+,High School graduates,All,Unemployment Rate
+LNU03027694,W,All,25+,Some college or associate degree,All,Unemployed
+LNU04027694,W,All,25+,Some college or associate degree,All,Unemployment Rate
+LNU03027681,W,All,25+,"Some college, no degree",All,Unemployed
+LNU04027681,W,All,25+,"Some college, no degree",All,Unemployment Rate
+LNU03027688,W,All,25+,Associate degree,All,Unemployed
+LNU04027688,W,All,25+,Associate degree,All,Unemployment Rate
+LNU03027682,W,All,25+,Bachelor's degree and higher,All,Unemployed
+LNU04027682,W,All,25+,Bachelor's degree and higher,All,Unemployment Rate
+LNU03092231,W,All,25+,Bachelor's degree only,All,Unemployed
+LNU04092231,W,All,25+,Bachelor's degree only,All,Unemployment Rate
+LNU03091115,W,All,25+,Advanced degree,All,Unemployed
+LNU04091115,W,All,25+,Advanced degree,All,Unemployment Rate
