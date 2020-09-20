@@ -42,8 +42,7 @@ import pandas as pd
 import numpy as np
 ```
 
-* API Extract <br/>
-(bls_api.ipynb)<br/>
+* API Extract (bls_api.ipynb) <br/>
 The below steps provide necessary information to run BLS.GOV APIs to get the Unemployment Rate, Unemployed, and CPI data from 2005 to 2020.
 
 1. Open up the Jupyter Notebook and make sure the inflationCode.csv and "Unemployment Series ID Codes - Final Codes.csv" are located in the same location as the bls_api notebook. 
