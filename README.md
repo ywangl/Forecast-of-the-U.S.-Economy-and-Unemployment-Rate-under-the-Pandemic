@@ -1,4 +1,17 @@
 # Data-Engineering-Platforms-Final-Project
+
+**Team:**
+
+* [**Aakash Pahuja**](https://www.linkedin.com/in/aakash-pahuja16/): _aakash1@uchicago.edu_
+
+* [**Adrienne Wang**](https://www.linkedin.com/in/adrienneywang/): _adrienneywang@uchicago.edu_
+
+* [**Brandon Allen**](https://www.linkedin.com/in/brandon-allen-48012b49/): _blallen22@uchicago.edu_
+
+* [**Prasanth Chinta**](https://www.linkedin.com/in/prasanthchinta/): _chinta@uchicago.edu_
+
+![](https://ibb.co/TbC57sv)
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
