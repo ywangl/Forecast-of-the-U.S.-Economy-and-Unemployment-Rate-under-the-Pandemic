@@ -10,7 +10,21 @@
 
 * [**Prasanth Chinta**](https://www.linkedin.com/in/prasanthchinta/): _chinta@uchicago.edu_
 
-![](https://i.ibb.co/TbC57sv/image.png)
+
+
+
+
+
+
+
+![](https://i.ibb.co/TbC57sv/img.png)
+
+
+
+
+
+
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
